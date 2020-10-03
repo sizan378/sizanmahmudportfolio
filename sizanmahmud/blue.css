@@ -1,0 +1,27 @@
+:root{
+    --mainColor:rgb(95, 104, 235);
+    --secondaryColor:#00695c;
+
+    --borderColor:rgb(131, 130, 130);
+    --themeDotBorder:#b8b9b8;
+    --previwBg:#004d40;
+    --previwShadwo:#a8a8a8;
+    --btnColor:rgb(217, 255, 47);
+
+    --mainText:rgb(48, 47, 47);
+    --secondaryText:#bee2ff;
+}
+h1,h2,h3,h4,h5,h6,strong{
+    color:white;
+    margin-top:10px;
+    font-family: 'Lora', serif;
+}
+p,li,span,label,input,textarea{
+    font-family: 'Roboto', sans-serif;
+    color:rgb(0, 0, 0);
+    margin-top:20px;
+}
+a{
+    text-decoration: none;
+    color:rgb(22, 162, 255);
+}
